@@ -1,6 +1,8 @@
 # proyecto
 ## Instalación y ejecución
 
+Trabajar en rama master
+
 Instalar la versión 20.11.1 de Node.
 
 Para instalar ionic usar  el comando 
